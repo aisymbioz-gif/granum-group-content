@@ -1,0 +1,24 @@
+{
+  "from": "content",
+  "to": "marketer",
+  "type": "content_ready",
+  "payload": {
+    "topic": "5 ошибок при заказе гранитной столешницы",
+    "formats": ["article", "telegram_post", "reddit_en", "email", "vk_carousel"],
+    "channels": ["granum_blog_seo", "telegram_granum_group", "reddit_HomeImprovement", "vk_dzen", "email_leads"],
+    "cta": "Рассчитай стоимость столешницы за 2 минуты",
+    "utm": "utm_source=content&utm_medium={channel}&utm_campaign=granite_5errors",
+    "google_ads_angles": [
+      "гранит без трещин",
+      "столешница на 20 лет",
+      "гарантия 5 лет на гранит",
+      "бесплатный замер с лазером"
+    ]
+  },
+  "summary": "5 форматов контента про ошибки выбора гранита, единая воронка → калькулятор / замер",
+  "evidence": [
+    "Реальные кейсы с трещинами от 20мм гранита",
+    "Google Ads: высокий CPL для общих запросов 'гранитная столешница', низкий — для 'не треснул гранит'"
+  ],
+  "confidence": 0.8
+}
