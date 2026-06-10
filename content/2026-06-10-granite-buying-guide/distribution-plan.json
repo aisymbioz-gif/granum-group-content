@@ -1,0 +1,42 @@
+{
+  "topic": "Как выбрать гранит — 3 теста перед покупкой",
+  "date": "2026-06-10",
+  "cta": "Получи расчёт стоимости за 2 минуты",
+  "formats": {
+    "article": {
+      "channel": "blog/SEO",
+      "target_keywords": ["как выбрать гранит", "гранит для памятника", "гранит для столешницы", "тест качества гранита"],
+      "word_count": 1500
+    },
+    "telegram_post": {
+      "channel": "telegram",
+      "schedule": "2026-06-11 10:00",
+      "word_count": 300
+    },
+    "thread": {
+      "channel": "vk/twitter",
+      "schedule": "2026-06-12 12:00",
+      "posts": 10
+    },
+    "reddit": {
+      "channel": "r/DIY, r/HomeImprovement, форум-камень",
+      "schedule": "2026-06-13 18:00",
+      "language": "EN+RU"
+    },
+    "email": {
+      "channel": "newsletter",
+      "schedule": "2026-06-14 09:00"
+    }
+  },
+  "handoff": {
+    "from": "content",
+    "to": "marketer",
+    "type": "content_ready",
+    "action_required": "Запустить дистрибуцию по 5 каналам через Postiz + email"
+  },
+  "kpi_targets": {
+    "organic_clicks": 200,
+    "calculator_submissions": 10,
+    "leads": 3
+  }
+}
