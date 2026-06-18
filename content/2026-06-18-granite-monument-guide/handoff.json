@@ -1,0 +1,30 @@
+{
+  "from": "content",
+  "to": "marketer",
+  "type": "content_ready",
+  "project": "granum-group",
+  "date": "2026-06-18",
+  "payload": {
+    "topic": "Как выбрать гранит для памятника и не переплатить 30%",
+    "formats": ["article", "telegram_post", "instagram_carousel", "vk_post", "email"],
+    "channels": ["telegram", "instagram", "vk", "email_broadcast", "site_blog"],
+    "cta": "Расчёт стоимости за 2 минуты на granum-group.com/calc",
+    "utm": "utm_source=content&utm_medium=organic&utm_campaign=monument-guide-2026-06",
+    "target_audience": "люди, которые ищут памятник для близкого, не знают рынка, боятся переплатить",
+    "key_pain": "Боюсь, что салон обманет и продаст подделку дороже"
+  },
+  "summary": "5 форматов контента по гайду выбора гранита для памятника. Hook: 'не переплатить 30%'. CTA: калькулятор стоимости. Конверсия ожидаемая 2-4%.",
+  "evidence": [
+    "ГОСТ 9479-2011",
+    "Карьеры Карелии (габбро-диабаз)",
+    "Карьеры Житомирской области (украинский гранит)",
+    "Опыт Granum Group 12 лет"
+  ],
+  "confidence": 0.85,
+  "next_steps": [
+    "Marketer: запланировать публикации через Postiz (TG в 10:00, VK в 12:00, IG в 18:00)",
+    "Marketer: настроить UTM для отслеживания CTR",
+    "Sales: подготовить ответы на лиды с калькулятора (SLA 1 час)",
+    "Operator: убедиться что /calc на сайте работает"
+  ]
+}
